@@ -1,0 +1,7 @@
+requests
+rich
+click
+PyPDF2
+PyYAML
+streamlit
+pytest

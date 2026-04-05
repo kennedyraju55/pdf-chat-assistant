@@ -1,0 +1,17 @@
+# PDF Chat Assistant — Configuration
+model:
+  name: gemma4
+  temperature: 0.7
+  max_tokens: 2048
+
+chunking:
+  chunk_size: 2000
+  chunk_overlap: 200
+  top_k: 3
+
+logging:
+  level: INFO
+  format: "%(asctime)s [%(levelname)s] %(name)s: %(message)s"
+
+export:
+  output_dir: exports
