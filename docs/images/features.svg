@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="350" viewBox="0 0 800 350">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="350" fill="url(#bg)" rx="12"/>
+  <text x="400" y="35" text-anchor="middle" fill="#e94560" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="bold">✨ Key Features</text>
+
+  <!-- Row 1 -->
+  <rect x="20" y="55" width="240" height="120" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="140" y="85" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="28">📄</text>
+  <text x="140" y="110" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="bold">Multi-PDF Support</text>
+  <text x="140" y="130" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">Load and chat with multiple</text>
+  <text x="140" y="145" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">PDFs simultaneously</text>
+
+  <rect x="280" y="55" width="240" height="120" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="400" y="85" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="28">✂️</text>
+  <text x="400" y="110" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="bold">Smart Chunking</text>
+  <text x="400" y="130" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">Overlapping text chunks for</text>
+  <text x="400" y="145" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">context-preserving retrieval</text>
+
+  <rect x="540" y="55" width="240" height="120" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="660" y="85" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="28">🔍</text>
+  <text x="660" y="110" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="bold">Keyword Retrieval</text>
+  <text x="660" y="130" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">Top-K relevant chunk</text>
+  <text x="660" y="145" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">matching for accuracy</text>
+
+  <!-- Row 2 -->
+  <rect x="20" y="195" width="240" height="120" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="140" y="225" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="28">💬</text>
+  <text x="140" y="250" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="bold">Multi-Turn Chat</text>
+  <text x="140" y="270" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">Conversation history for</text>
+  <text x="140" y="285" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">contextual follow-ups</text>
+
+  <rect x="280" y="195" width="240" height="120" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="400" y="225" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="28">💾</text>
+  <text x="400" y="250" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="bold">Chat Export</text>
+  <text x="400" y="270" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">Export entire conversation</text>
+  <text x="400" y="285" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">history to JSON files</text>
+
+  <rect x="540" y="195" width="240" height="120" rx="10" fill="#1e293b" stroke="#334155" stroke-width="1"/>
+  <text x="660" y="225" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="28">🔒</text>
+  <text x="660" y="250" text-anchor="middle" fill="#ffffff" font-family="Segoe UI,Arial,sans-serif" font-size="14" font-weight="bold">100% Private</text>
+  <text x="660" y="270" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">Runs entirely on your machine</text>
+  <text x="660" y="285" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial,sans-serif" font-size="11">via Ollama — zero cloud calls</text>
+
+  <text x="400" y="340" text-anchor="middle" fill="#4a5568" font-family="Segoe UI,Arial,sans-serif" font-size="11">PDF Chat Assistant — Built with Python • Click CLI • Streamlit Web UI</text>
+</svg>
